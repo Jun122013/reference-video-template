@@ -1,0 +1,4 @@
+interface:
+  display_name: "对标视频 → 生成提示词"
+  short_description: "独立拆解对标的动作、镜头、节奏与声音，编写可复用生成提示词"
+  default_prompt: "用 $reference-video-template 拆解这条对标，保留核心机制，按我的替换要求写出母版和可直接提交的提示词。"
